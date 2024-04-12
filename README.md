@@ -18,7 +18,7 @@ This project is a Monthly Budget Report created in Excel, designed to help indiv
 - **Chart and Visual Handling**: Gained hands-on experience in creating and managing different charts and visuals in Excel.
 - **Basic Formulas and Formattings**: Applied basic formulas and formatting techniques to enhance the presentation of data.
 
-# Acknowledgments
+# Acknowledgements
 - The idea for the Budget Planner Spreadsheet was derived from the 'Haye Creatives' YouTube channel.
 
 # Feedback
